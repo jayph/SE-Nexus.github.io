@@ -10,7 +10,7 @@ The directory in which you choose to install the nexus controller will have *sis
 flowchart TD;
     Nexus[Nexus Controller]-->bin;
 ```
-
+![](/img/ActivationScreen.png)
 Unzip the nexus controller into the lower directory, named "bin" in the example above.
 
 When you start the nexus controller for the first time, the sister directories will be created, including: Configs, Logs, PlayerData, Plugins, Prefabs, Scripts, and WorldSaves.
@@ -24,6 +24,7 @@ flowchart TD;
     Nexus[Nexus Controller]-->Scripts;
     Nexus[Nexus Controller]-->WorldSaves;
 ```
+![](/img/ActivationScreen.png)
 
 # First Time Setup
 
